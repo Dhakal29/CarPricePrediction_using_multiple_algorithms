@@ -1,1 +1,4 @@
-Linear regression with multiple features. Dataset reference is from Kaggle
+Single feature prediction using algorithms like:
+1.Linear Regression
+2.MLPRegressor
+
