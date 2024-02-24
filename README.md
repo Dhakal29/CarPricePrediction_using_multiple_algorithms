@@ -1,1 +1,1 @@
-# CarPricePrediction_with_LinearReg_Cross_validation
+Linear regression with multiple features. Dataset reference is from Kaggle
